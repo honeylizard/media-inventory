@@ -20,7 +20,7 @@ Contributors: Lisa Bernhardt, Ben Bernhardt
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-== Copyright ==
+## Copyright
 
 Media Inventory App is distributed under the terms of the GNU GPL
 
@@ -34,7 +34,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-== Third Party Resources ==
+# Third Party Resources
 
 Media Inventory App bundles the following third-party resources:
 
